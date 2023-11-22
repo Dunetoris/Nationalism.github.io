@@ -8,7 +8,10 @@ body {
 }
 
 nav {
-    background-color: #ffdd8c; /* Bright orange-yellow */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #ffa500; /* Bright orange-yellow */
     padding: 10px 0;
 }
 
